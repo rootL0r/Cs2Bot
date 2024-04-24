@@ -1,0 +1,132 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "swed64/1.0.5": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/swed64.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/swed64.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "swed64/1.0.5": {
+      "sha512": "hjPJApGh5ppws192I2mw5/XKY6lD1fbA5k9WuxUT2OwCMSmMrtRZ+fAYPQF2R3DBXlgjnrRMKqcurkFFynG+cg==",
+      "type": "package",
+      "path": "swed64/1.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "64.png",
+        "LICENSE.txt",
+        "lib/net6.0/swed64.dll",
+        "swed64.1.0.5.nupkg.sha512",
+        "swed64.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "swed64 >= 1.0.5"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\bflx9\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\bflx9\\source\\repos\\Csgo2HaCk\\Csgo2HaCk\\Csgo2HaCk.csproj",
+      "projectName": "Csgo2HaCk",
+      "projectPath": "C:\\Users\\bflx9\\source\\repos\\Csgo2HaCk\\Csgo2HaCk\\Csgo2HaCk.csproj",
+      "packagesPath": "C:\\Users\\bflx9\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bflx9\\source\\repos\\Csgo2HaCk\\Csgo2HaCk\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\bflx9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows7.0",
+        "dependencies": {
+          "swed64": {
+            "target": "Package",
+            "version": "[1.0.5, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.27, 6.0.27]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.27, 6.0.27]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.27, 6.0.27]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.27, 6.0.27]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

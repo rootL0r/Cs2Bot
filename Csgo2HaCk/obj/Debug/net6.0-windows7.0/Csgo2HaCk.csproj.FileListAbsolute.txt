@@ -1,0 +1,17 @@
+C:\Users\bflx9\source\repos\Csgo2HaCk\Csgo2HaCk\bin\Debug\net6.0-windows7.0\Csgo2HaCk.exe
+C:\Users\bflx9\source\repos\Csgo2HaCk\Csgo2HaCk\bin\Debug\net6.0-windows7.0\Csgo2HaCk.deps.json
+C:\Users\bflx9\source\repos\Csgo2HaCk\Csgo2HaCk\bin\Debug\net6.0-windows7.0\Csgo2HaCk.runtimeconfig.json
+C:\Users\bflx9\source\repos\Csgo2HaCk\Csgo2HaCk\bin\Debug\net6.0-windows7.0\Csgo2HaCk.dll
+C:\Users\bflx9\source\repos\Csgo2HaCk\Csgo2HaCk\bin\Debug\net6.0-windows7.0\Csgo2HaCk.pdb
+C:\Users\bflx9\source\repos\Csgo2HaCk\Csgo2HaCk\bin\Debug\net6.0-windows7.0\swed64.dll
+C:\Users\bflx9\source\repos\Csgo2HaCk\Csgo2HaCk\obj\Debug\net6.0-windows7.0\Csgo2HaCk.csproj.AssemblyReference.cache
+C:\Users\bflx9\source\repos\Csgo2HaCk\Csgo2HaCk\obj\Debug\net6.0-windows7.0\Csgo2HaCk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bflx9\source\repos\Csgo2HaCk\Csgo2HaCk\obj\Debug\net6.0-windows7.0\Csgo2HaCk.AssemblyInfoInputs.cache
+C:\Users\bflx9\source\repos\Csgo2HaCk\Csgo2HaCk\obj\Debug\net6.0-windows7.0\Csgo2HaCk.AssemblyInfo.cs
+C:\Users\bflx9\source\repos\Csgo2HaCk\Csgo2HaCk\obj\Debug\net6.0-windows7.0\Csgo2HaCk.csproj.CoreCompileInputs.cache
+C:\Users\bflx9\source\repos\Csgo2HaCk\Csgo2HaCk\obj\Debug\net6.0-windows7.0\Csgo2HaCk.csproj.Up2Date
+C:\Users\bflx9\source\repos\Csgo2HaCk\Csgo2HaCk\obj\Debug\net6.0-windows7.0\Csgo2HaCk.dll
+C:\Users\bflx9\source\repos\Csgo2HaCk\Csgo2HaCk\obj\Debug\net6.0-windows7.0\refint\Csgo2HaCk.dll
+C:\Users\bflx9\source\repos\Csgo2HaCk\Csgo2HaCk\obj\Debug\net6.0-windows7.0\Csgo2HaCk.pdb
+C:\Users\bflx9\source\repos\Csgo2HaCk\Csgo2HaCk\obj\Debug\net6.0-windows7.0\Csgo2HaCk.genruntimeconfig.cache
+C:\Users\bflx9\source\repos\Csgo2HaCk\Csgo2HaCk\obj\Debug\net6.0-windows7.0\ref\Csgo2HaCk.dll
