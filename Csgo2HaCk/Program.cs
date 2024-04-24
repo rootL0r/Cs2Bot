@@ -3,6 +3,7 @@ using System;
 using System.Numerics;
 using System.Runtime.InteropServices;
 
+// Programmed By l0r ; github.com/rootL0r .
 
 class Program
 {
@@ -11,7 +12,7 @@ class Program
 
     static extern short GetAsyncKeyState(Keys vKey);
 
-    // Main addr
+    // Base Addr
     static int Localplayer   = 0x017361C8;
     static int entitylist7   = 0x01743C80;
     static int viewangelsY   = 0x192F910;
