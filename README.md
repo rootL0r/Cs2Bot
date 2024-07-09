@@ -7,4 +7,6 @@
 
 ***It's Simple u Just can take a Look for the Source Code and have a knowledge .***
 ----------------
-**Happy Hacking.**
+***Don't try it online, you'll get banned !*** 
+----------------
+**Happy Cheating.**
